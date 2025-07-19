@@ -1,0 +1,11 @@
+C:\Users\javib\OneDrive\Escritorio\graficas\Game_of_life\target\debug\deps\libc-c0078a3367c561ff.d: C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\lib.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\macros.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\primitives.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\windows\mod.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\windows\msvc\mod.rs
+
+C:\Users\javib\OneDrive\Escritorio\graficas\Game_of_life\target\debug\deps\liblibc-c0078a3367c561ff.rlib: C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\lib.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\macros.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\primitives.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\windows\mod.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\windows\msvc\mod.rs
+
+C:\Users\javib\OneDrive\Escritorio\graficas\Game_of_life\target\debug\deps\liblibc-c0078a3367c561ff.rmeta: C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\lib.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\macros.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\primitives.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\windows\mod.rs C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\windows\msvc\mod.rs
+
+C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\lib.rs:
+C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\macros.rs:
+C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\primitives.rs:
+C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\windows\mod.rs:
+C:\Users\javib\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.174\src\windows\msvc\mod.rs:

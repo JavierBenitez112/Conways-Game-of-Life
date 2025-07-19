@@ -1,0 +1,1 @@
+C:\Users\javib\OneDrive\Escritorio\graficas\Game_of_life\target\debug\Game_of_life.exe: C:\Users\javib\OneDrive\Escritorio\graficas\Game_of_life\src\framebuffer.rs C:\Users\javib\OneDrive\Escritorio\graficas\Game_of_life\src\game_of_life.rs C:\Users\javib\OneDrive\Escritorio\graficas\Game_of_life\src\line.rs C:\Users\javib\OneDrive\Escritorio\graficas\Game_of_life\src\main.rs

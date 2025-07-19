@@ -1,0 +1,27 @@
+[package]
+name = "Game_of_life"
+version = "0.1.0"
+edition = "2024"
+
+[profile.dev]
+opt-level = 3
+debug = false
+
+[dependencies]
+raylib = "5.5.1"
+
+[[example]]
+name = "high_resolution"
+path = "examples/high_resolution.rs"
+
+[[example]]
+name = "custom_population"
+path = "examples/custom_population.rs"
+
+[[example]]
+name = "flowers"
+path = "examples/flowers.rs"
+
+[[example]]
+name = "colorful_life"
+path = "examples/colorful_life.rs"

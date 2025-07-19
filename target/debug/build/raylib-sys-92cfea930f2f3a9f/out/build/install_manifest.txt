@@ -1,0 +1,7 @@
+C:/Users/javib/OneDrive/Escritorio/graficas/Game_of_life/target/debug/build/raylib-sys-92cfea930f2f3a9f/out/lib/raylib.lib
+C:/Users/javib/OneDrive/Escritorio/graficas/Game_of_life/target/debug/build/raylib-sys-92cfea930f2f3a9f/out/include/raylib.h
+C:/Users/javib/OneDrive/Escritorio/graficas/Game_of_life/target/debug/build/raylib-sys-92cfea930f2f3a9f/out/include/rlgl.h
+C:/Users/javib/OneDrive/Escritorio/graficas/Game_of_life/target/debug/build/raylib-sys-92cfea930f2f3a9f/out/include/raymath.h
+C:/Users/javib/OneDrive/Escritorio/graficas/Game_of_life/target/debug/build/raylib-sys-92cfea930f2f3a9f/out/lib/pkgconfig/raylib.pc
+C:/Users/javib/OneDrive/Escritorio/graficas/Game_of_life/target/debug/build/raylib-sys-92cfea930f2f3a9f/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/javib/OneDrive/Escritorio/graficas/Game_of_life/target/debug/build/raylib-sys-92cfea930f2f3a9f/out/lib/cmake/raylib/raylib-config.cmake

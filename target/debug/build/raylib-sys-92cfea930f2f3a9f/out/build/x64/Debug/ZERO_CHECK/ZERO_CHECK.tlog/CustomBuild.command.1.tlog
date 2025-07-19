@@ -1,0 +1,10 @@
+^C:\USERS\JAVIB\ONEDRIVE\ESCRITORIO\GRAFICAS\GAME_OF_LIFE\TARGET\DEBUG\BUILD\RAYLIB-SYS-92CFEA930F2F3A9F\OUT\BUILD\CMAKEFILES\6DCE337F058A40DF707185360000A5CD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/javib/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/raylib-sys-5.5.1/raylib -BC:/Users/javib/OneDrive/Escritorio/graficas/Game_of_life/target/debug/build/raylib-sys-92cfea930f2f3a9f/out/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/javib/OneDrive/Escritorio/graficas/Game_of_life/target/debug/build/raylib-sys-92cfea930f2f3a9f/out/build/raylib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
