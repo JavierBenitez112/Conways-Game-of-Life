@@ -1,5 +1,9 @@
 # Juego de la Vida de Conway - Versión Colorida
 
+![gameoflife](https://github.com/user-attachments/assets/9be6875d-d115-432c-b9e1-99bee27ed390)
+
+
+
 Una implementación del clásico Juego de la Vida de Conway usando Rust y Raylib, con un framebuffer personalizado y **sistema de colores heredables**.
 
 ## Características
